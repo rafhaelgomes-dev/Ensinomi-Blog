@@ -11,7 +11,7 @@ React.js, Hooks, Context API, React Router, Firebase, Autenticação, JavaScript
 
 ## Utilização
 
-- Para clonar o projeto: `git@github.com:rafhaelgomes-dev/MyWallet-Controle-Pessoal.git`.
+- Para clonar o projeto: `git@github.com:rafhaelgomes-dev/Ensinomi-Blog.git`.
 
 - Para instalar as dependências basta rodar o comando `npm install` e acessar as funcionalidades da aplicação.
 
