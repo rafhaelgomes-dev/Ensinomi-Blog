@@ -3,7 +3,10 @@ import styles from "./Footer.module.css"
 const Footer = () => {
   return (
     <div>
-      <h1>Footer</h1>
+     <footer className={styles.footer}>
+       <h3>Compartilhe seus conhecimentos sobre tecnologia!</h3>
+       <p>EnsinomiBlog &copy; 2022</p>
+     </footer>
     </div>
   )
 }
