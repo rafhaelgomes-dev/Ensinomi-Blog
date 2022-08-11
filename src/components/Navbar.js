@@ -1,5 +1,3 @@
-import styles from "./Navbar.module.css"
-
 const Navbar = () => {
   return (
     <div>
@@ -8,4 +6,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar;
+export default Navbar
