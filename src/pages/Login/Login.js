@@ -19,11 +19,7 @@ const Login = () => {
       email,
       password
     }
-
-
-    const response = await (login(user))
-
-    console.log(response);
+    await (login(user))
   }
 
   useEffect(() => {
