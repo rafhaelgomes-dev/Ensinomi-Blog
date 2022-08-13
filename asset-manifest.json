@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ensinomi-Blog/static/css/main.fff6d536.css",
-    "main.js": "/Ensinomi-Blog/static/js/main.65a28583.js",
+    "main.css": "/Ensinomi-Blog/static/css/main.f3cf258f.css",
+    "main.js": "/Ensinomi-Blog/static/js/main.e66f46d1.js",
     "static/js/787.f03422ae.chunk.js": "/Ensinomi-Blog/static/js/787.f03422ae.chunk.js",
     "index.html": "/Ensinomi-Blog/index.html",
-    "main.fff6d536.css.map": "/Ensinomi-Blog/static/css/main.fff6d536.css.map",
-    "main.65a28583.js.map": "/Ensinomi-Blog/static/js/main.65a28583.js.map",
+    "main.f3cf258f.css.map": "/Ensinomi-Blog/static/css/main.f3cf258f.css.map",
+    "main.e66f46d1.js.map": "/Ensinomi-Blog/static/js/main.e66f46d1.js.map",
     "787.f03422ae.chunk.js.map": "/Ensinomi-Blog/static/js/787.f03422ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff6d536.css",
-    "static/js/main.65a28583.js"
+    "static/css/main.f3cf258f.css",
+    "static/js/main.e66f46d1.js"
   ]
 }
